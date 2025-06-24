@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Spotify Clone/covers"
+		},
+		{
+			"path": "../Spotify Clone/songs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5502,
+		"liveServer.settings.multiRootWorkspaceName": "spotify clone kartik"
+	}
+}
